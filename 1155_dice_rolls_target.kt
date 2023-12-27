@@ -20,8 +20,4 @@ class Solution1155{
         }
         return dp[0][0];
     }
-    
-    fun numRollsRec(n: Int, k: Int, target: Int, dp:Array<IntArray>): Int {
-        
-    }
 }
