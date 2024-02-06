@@ -7,5 +7,5 @@ fun minSteps(s: String, t: String): Int {
         tMap[t[i]] = tMap.getOrDefault(t[i], 0) + 1;
     }
     var diff = 0;
-
+    return 1;
 }
